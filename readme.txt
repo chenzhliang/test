@@ -5,4 +5,4 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 git 分支管理策略
-git 
+git 测试bug分支,修复bug
