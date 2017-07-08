@@ -4,5 +4,10 @@ Git has a mutable index called stage.
 Git tracks changes.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
+<<<<<<< Updated upstream
 git 分支管理策略--在此修复bug
 git 
+=======
+git 分支管理策略
+git 测试bug分支
+>>>>>>> Stashed changes
